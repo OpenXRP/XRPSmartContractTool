@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-    <a href="https://github.com/TheArchitect123"><img src="./logo.png" align="center" width=300/></a>
+    <a href="https://github.com/TheArchitect123"><img src="./xrp.png" align="center" width=300/></a>
 </p>
 
 <p align="center">
@@ -8,34 +8,9 @@ A small tool for creating and deploying your own smart contracts for the XRP Blo
 </p>
 <br/>
 
-<p align="center">
-  <a href="https://xrpl.org/docs.html">
-  <img alt="GitHub" src="https://img.shields.io/github/license/terra-money/terra.js">
-  </a>
-  
-  <a href="">
-  <img alt="GitHub" src="https://img.shields.io/pub/likes/terra_dart?color=red">
-  </a>
-</p>
-
-## Features
-
-- **Written in typescript**, with type definitions
-
-## Installation & Configuration
-
-Grab the latest version off [NuGet](https://www.nuget.org/packages/XRPNet.Ledger)
-
-```sh
-dotnet add package XRPDart.Ledger
-```
-
 ## Usage
 
-To install the tool please use the link, otherwise run:
-```ts
-yarn run
-```
+This package can be used for Mobile & Web Developers, or SDK Developers looking to extend the XRP Blockchain
 
 ## License
 
